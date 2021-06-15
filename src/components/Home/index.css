@@ -1,0 +1,21 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.designation {
+  color: #d3d3d3;
+  font-size: 25px;
+  font-weight: bold;
+}
+.profile {
+  border-radius: 50%;
+}

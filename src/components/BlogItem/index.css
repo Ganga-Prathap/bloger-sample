@@ -1,0 +1,40 @@
+.item-container {
+  display: flex;
+  flex-direction: row;
+  height: 250px;
+  width: 800px;
+  border: 2px solid #8e8e8e;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.item-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: -15px;
+}
+.item-image {
+  width: 300px;
+  height: 220px;
+  border-radius: 5px;
+}
+.avatar {
+  width: 50px;
+  border-radius: 50%;
+}
+.item-topic {
+  color: #d3d3d3;
+}
+.item-title {
+  color: ##000000;
+  font-size: 25px;
+}
+.author-info {
+  display: flex;
+}
+.author-name {
+  margin-left: 5px;
+  color: #d3d3d3;
+}
